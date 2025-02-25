@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Temperature & Humidity Monitor</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Video Background -->
+  <video autoplay muted loop id="video-background">
+    <source src="sky.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <!-- Main Content -->
+  <div class="container">
+    <h1>Temperature & Humidity Monitor</h1>
+    
+    <!-- Real-Time Data -->
+    <div class="sensor-data">
+      <p><strong>Current Temperature:</strong> <span id="temperature">--</span> °C</p>
+      <p><strong>Current Humidity:</strong> <span id="humidity">--</span> %</p>
+    </div>
+
+    <!-- Prediction Section -->
+    <div class="prediction-section">
+      <h2>Predict Temperature and Humidity</h2>
+      <label for="date-input">Select a Date:</label>
+      <input type="date" id="date-input">
+      <button id="predict-btn">Predict</button>
+      <div class="prediction-result">
+        <p><strong>Predicted Temperature:</strong> <span id="predicted-temperature">--</span> °C</p>
+        <p><strong>Predicted Humidity:</strong> <span id="predicted-humidity">--</span> %</p>
+      </div>
+    </div>
+
+    <!-- Refresh Button -->
+    <button id="refresh-btn">Refresh Current Data</button>
+  </div>
+  <script src="scr.js"></script>
+</body>
+</html>
