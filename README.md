@@ -3,7 +3,7 @@
 A real-time, AI-powered web platform for predicting and monitoring **temperature** and **humidity** using IoT and **machine learning**.  
 The system integrates a **DHT11 sensor**, **ESP32**, **Blynk Cloud**, **Google Apps Script**, and **XGBoost** to deliver accurate environmental forecasts through a user-friendly web dashboard.
 
-▶️ [Watch Demo Video]([link-to-your-working-video](https://github.com/rahul5383/Miniproject-iot/blob/main/working_video.mp4))
+▶️ [Watch Demo Video]((https://github.com/rahul5383/Miniproject-iot/blob/main/working_video.mp4))
 
 ---
 
@@ -60,9 +60,3 @@ The system integrates a **DHT11 sensor**, **ESP32**, **Blynk Cloud**, **Google A
 2. Set up LCD display using I2C connection.
 3. Flash the ESP32 using Arduino IDE with the sensor data upload code.
 4. Link ESP32 with **Blynk Cloud** using authentication tokens.
-
-### Software Setup:
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
