@@ -60,3 +60,5 @@ The system integrates a **DHT11 sensor**, **ESP32**, **Blynk Cloud**, **Google A
 2. Set up LCD display using I2C connection.
 3. Flash the ESP32 using Arduino IDE with the sensor data upload code.
 4. Link ESP32 with **Blynk Cloud** using authentication tokens.
+
+`link-to-your-working-video` → Paste your YouTube/GitHub/Vimeo video link here.
