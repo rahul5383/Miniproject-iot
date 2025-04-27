@@ -36,7 +36,7 @@ The system integrates a **DHT11 sensor**, **ESP32**, **Blynk Cloud**, **Google A
 
 ## 📈 Screenshots
 
-![IoT Setup](https://github.com/rahul5383/Miniproject-iot/blob/main/Iotsetup.jpg)
+![IoT Setup](https://githubusercontent.com/rahul5383/Miniproject-iot/blob/main/Iotsetup.jpg)
 
 ## 🔧 Tech Stack
 
