@@ -3,7 +3,7 @@
 A real-time, AI-powered web platform for predicting and monitoring **temperature** and **humidity** using IoT and **machine learning**.  
 The system integrates a **DHT11 sensor**, **ESP32**, **Blynk Cloud**, **Google Apps Script**, and **XGBoost** to deliver accurate environmental forecasts through a user-friendly web dashboard.
 
-▶️ [Watch Demo Video]((https://github.com/rahul5383/Miniproject-iot/blob/main/working_video.mp4))
+▶️ [Watch Demo Video](link-to-your-working-video)
 
 ---
 
