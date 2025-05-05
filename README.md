@@ -47,13 +47,13 @@ The system integrates a **DHT11 sensor**, **ESP32**, **Blynk Cloud**, **Google A
   - Wi-Fi Network
   
 - **Software**:
-  - Arduino IDE (ESP32 Programming)
-  - Flask (Backend)
+  - Arduino IDE, C++ 
+  - Flask 
   - HTML/CSS, TailwindCSS (Frontend)
-  - Chart.js (Graphs & Charts)
-  - Blynk IoT Platform (Real-time cloud storage)
+  - Chart.js , matplotlib (Graphs & Charts)
+  - Blynk 2.0 Cloud IoT Platform (Real-time cloud storage)
   - Google Apps Script (Data logging automation)
-  - XGBoost, Scikit-learn (Machine Learning)
+  - XGBoost, Scikit-learn, tensorflow ,keras (Machine Learning)
 
 ---
 
